@@ -185,4 +185,5 @@ DISCUSSION
    #:dot-attribute-value
    #:dot-attributes-mixin
    #:*dot-graph-attributes*
+   #:*dot-path*
    ))
